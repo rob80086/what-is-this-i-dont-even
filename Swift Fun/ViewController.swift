@@ -4,7 +4,7 @@
 //
 //  Created by Rob McDonnell on 9/27/17.
 //  Copyright © 2017 Rob McDonnell. All rights reserved.
-//  Gits are neat, I guess
+//  #GetWithGit, I guess
 
 import UIKit
 
